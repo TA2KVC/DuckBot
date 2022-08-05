@@ -93,7 +93,7 @@ class ubot:
         self.query_updates = {
             'offset': self.message_offset + 1,
             'limit': 1,
-            'timeout': 30,
+            'timeout': 40,
             'allowed_updates': ['message']}
 
         try:

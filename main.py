@@ -1,10 +1,19 @@
 import utelegram
 import network
 import random
+import makine
+import twitter
+import _thread
+from ducks import data
+from cats import cata
+from dogs import kata
+from cute import mixe
 
-ssid = 'xxxxxxx'
-password = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-token ='xxxxxxxx:yyyyyyyyyyyyyyyyyyyyy'
+makine.bootled()
+
+ssid = 'xxxxxxxxxx'
+password = 'xxxxxxxxxxxx'
+token ='xxxxxxx:yyyyyyyyyyyyyyyyyyyyy'
 
 sta_if = network.WLAN(network.STA_IF)
 sta_if.active(True)
@@ -18,24 +27,42 @@ print( 'Wifi SSID :' + status1 )
 status2 = sta_if.ifconfig()
 print( 'IP Adresi :' + status2[0] )
 
-data=['https://someimagehostingsite/ordek.jpg',
-'https://someimagehostingsite/ordek1.jpg',
-'https://someimagehostingsite/ordek2.jpg',
-'https://someimagehostingsite/ordek3.jpg']
-
 def welcome(message):
-    gif = "https://someimagehostingsite/hosgeldin.jpg"
+    gif = "https://ibb.co/hXvchZt"
     bot.photo(message['message']['chat']['id'], gif, '')
-    vid = "https://someimagehostingsite/ordek.mp4"
+    vid = "https://user-images.githubusercontent.com/62475996/180663340-4099a88c-d84e-437c-a984-2f6908380520.mp4"
     #bot.action(message['message']['chat']['id'], 'upload_video')
-    bot.video(message['message']['chat']['id'], vid, 'VakVak created by Volkan TA2KVC\nClick /vakvak')
+    bot.video(message['message']['chat']['id'], vid, 'Vakvak created by Volkan TA2KVC\nClick /vakvak')
+    makine.blink()
     #print(message)
 
 def duckbot(message):
     ordek=random.choice(data)
-    #bot.action(message['message']['chat']['id'], 'upload_photo')
-    bot.photo(message['message']['chat']['id'], ordek, 'VakVak created by Volkan TA2KVC\nClick /vakvak')
+    bot.photo(message['message']['chat']['id'], ordek, 'Vakvak created by Volkan TA2KVC\nClick /vakvak')
+    makine.blink()
+    twit.tweet(ordek)
 
+def catbot(message):
+    cat=random.choice(cata)
+    bot.photo(message['message']['chat']['id'], cat, 'Miyav created by Volkan TA2KVC\nClick /miyav')
+    makine.blink()
+    twit.tweet(cat)
+
+def dogbot(message):
+    dog=random.choice(kata)
+    bot.photo(message['message']['chat']['id'], dog, 'Puppy created by Volkan TA2KVC\nClick /hav')
+    makine.blink()
+    twit.tweet(dog)
+
+def cutebot(message):
+    mix=random.choice(mixe)
+    bot.photo(message['message']['chat']['id'], mix, 'Mixx created by Volkan TA2KVC\nClick /mix')
+    makine.blink()
+    twit.tweet(mix)
+
+_thread.start_new_thread(makine.vreset, ())
+
+twit = twitter.twiit()
 bot = utelegram.ubot(token)
 bot.register('Ördek', duckbot)
 bot.register('ördek', duckbot)
@@ -43,7 +70,11 @@ bot.register('vakvak', duckbot)
 bot.register('Vakvak', duckbot)
 bot.register('/vakvak', duckbot)
 bot.register('vak', duckbot)
+bot.register('/vak', duckbot)
 bot.register('Vak', duckbot)
+bot.register('/miyav', catbot)
+bot.register('/hav', dogbot)
+bot.register('/mix', cutebot)
 bot.register('/start', welcome)
 bot.set_default_handler(welcome)
 print('BOT HAZIR')
