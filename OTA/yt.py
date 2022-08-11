@@ -18,26 +18,26 @@ https://youtu.be/YR5ApYxkU-U Pink Floyd - Another Brick In The Wall
 https://youtu.be/eM8Ss28zjcE Queen - I Want To Break Free
 https://youtu.be/Qt2mbGP6vFI Phil Collins - Another Day In Paradise
 https://youtu.be/t1TcDHrkQYg Alphaville - Forever Young
-https://youtu.be/loWXMtjUZWM
-https://youtu.be/izGwDsrQ1eQ
-https://youtu.be/FTQbiNvZqaY
-https://youtu.be/KrZHPOeOxQQ
-https://youtu.be/rY0WxgSXdEE
-https://youtu.be/pIgZ7gMze7A
-https://youtu.be/qeMFqkcPYcg
-https://youtu.be/eH3giaIzONA
-https://youtu.be/GOJk0HW_hJw
-https://youtu.be/WGU_4-5RaxU
-https://youtu.be/9f06QZCVUHg
-https://youtu.be/CdqoNKCCt7A
-https://youtu.be/hCuMWrfXG4E
-https://youtu.be/J9gKyRmic20
-https://youtu.be/fPO76Jlnz6c
-https://youtu.be/hTWKbfoikeg
-https://youtu.be/Y0pdQU87dc8
-https://youtu.be/6Ejga4kJUts
-https://youtu.be/tAGnKpE4NCI
-https://youtu.be/1lyu1KKwC74
+https://youtu.be/loWXMtjUZWM Foreigner - I want to
+https://youtu.be/izGwDsrQ1eQ George Michael - Careless Whisper
+https://youtu.be/FTQbiNvZqaY Toto - Africa
+https://youtu.be/KrZHPOeOxQQ Bon Jovi - You Give Love A Bad Name
+https://youtu.be/rY0WxgSXdEE Queen - Another One Bites the Dust
+https://youtu.be/pIgZ7gMze7A Wham! - Wake Me Up
+https://youtu.be/qeMFqkcPYcg Eurythmics - Sweet Dreams
+https://youtu.be/eH3giaIzONA Whitney Houston - I Wanna Dance
+https://youtu.be/GOJk0HW_hJw Whitesnake - Is This Love
+https://youtu.be/WGU_4-5RaxU Blondie - Heart Of Glass
+https://youtu.be/9f06QZCVUHg Bryan Adams - Summer Of’69
+https://youtu.be/CdqoNKCCt7A Simple Minds - Don't You
+https://youtu.be/hCuMWrfXG4E Billy Joel - Uptown Girl
+https://youtu.be/J9gKyRmic20 Crowded House - Don't Dream
+https://youtu.be/fPO76Jlnz6c Coolio - Gangsta's Paradise
+https://youtu.be/hTWKbfoikeg Nirvana - Smells Like Teen Spirit
+https://youtu.be/Y0pdQU87dc8 Bryan Adams - Everything I Do
+https://youtu.be/6Ejga4kJUts The Cranberries - Zombie
+https://youtu.be/tAGnKpE4NCI Metallica: Nothing Else Matters
+https://youtu.be/1lyu1KKwC74 The Verve - Bitter Sweet Symphony
 https://youtu.be/QNJL6nfu__Q
 https://youtu.be/NKMtZm2YuBE
 https://youtu.be/CD-E-LDc384
