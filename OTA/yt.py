@@ -38,37 +38,35 @@ https://youtu.be/Y0pdQU87dc8 Bryan Adams - Everything I Do
 https://youtu.be/6Ejga4kJUts The Cranberries - Zombie
 https://youtu.be/tAGnKpE4NCI Metallica: Nothing Else Matters
 https://youtu.be/1lyu1KKwC74 The Verve - Bitter Sweet Symphony
-https://youtu.be/QNJL6nfu__Q
-https://youtu.be/NKMtZm2YuBE
-https://youtu.be/CD-E-LDc384
-https://youtu.be/EK_LN3XEcnw
-https://youtu.be/ZJL4UGSbeFg
-https://youtu.be/EScLmWJs82I
-https://youtu.be/mzJj5-lubeM
-https://youtu.be/YP3W-E0OamU
-https://youtu.be/gJLIiF15wjQ
-https://youtu.be/C3lWwBslWqg
-https://youtu.be/mOYZaiDZ7BM
-https://youtu.be/d73tiBBzvFM
-https://youtu.be/YlUKcNNmywk
-https://youtu.be/PCTI_e81DtM
-https://youtu.be/nllmm7Q4sj0
-https://youtu.be/uCM_4J6xdKg
-https://youtu.be/psCf0oK9dvg
-https://youtu.be/76ZRlYlyVu0
-https://youtu.be/rMbyJnLOhCM
-https://youtu.be/iU5UKGTk-XI
-https://youtu.be/_SUY0ujOenU
-https://youtu.be/HuZTEsvgQko
-https://youtu.be/sf3QD3VoOnU
-https://youtu.be/c18441Eh_WE
-https://youtu.be/63vqob-MljQ
-https://youtu.be/vx2u5uUu3DE
-https://youtu.be/d27gTrPPAyk
-https://youtu.be/mqFLXayD6e8
-https://youtu.be/llyiQ4I-mcQ
-https://youtu.be/HCm6gRHINqA
-https://youtu.be/ymNFyxvIdaM
-https://youtu.be/NI6aOFI7hms
-https://youtu.be/6W5pq4bIzIw
-https://youtu.be/lN_MSyrq6-U
+https://youtu.be/QNJL6nfu__Q Michael Jackson - They Don’t Care
+https://youtu.be/NKMtZm2YuBE Puff Daddy - I'll Be Missing You
+https://youtu.be/CD-E-LDc384 Metallica: Enter Sandman
+https://youtu.be/ZJL4UGSbeFg Shania Twain - I Feel Like A Woman
+https://youtu.be/mzJj5-lubeM Red Hot Chili Peppers - Scar Tissue
+https://youtu.be/YP3W-E0OamU Michael Jackson - Black or White
+https://youtu.be/gJLIiF15wjQ Spice Girls - Wannabe
+https://youtu.be/C3lWwBslWqg Sting - Desert Rose
+https://youtu.be/mOYZaiDZ7BM Rednex - Cotton Eye Joe 
+https://youtu.be/d73tiBBzvFM Ace of Base - All That She Wants
+https://youtu.be/YlUKcNNmywk Red Hot Chili Peppers - Californication
+https://youtu.be/PCTI_e81DtM The Prodigy - Smack My Bitch Up
+https://youtu.be/nllmm7Q4sj0 The Prodigy - Breathe
+https://youtu.be/uCM_4J6xdKg The Prodigy - Diesel Power
+https://youtu.be/psCf0oK9dvg The Prodigy - Funky Shit
+https://youtu.be/76ZRlYlyVu0 The Prodigy - Serial Thrilla
+https://youtu.be/rMbyJnLOhCM The Prodigy - Mindfiels
+https://youtu.be/iU5UKGTk-XI The Prodigy - Narayan
+https://youtu.be/_SUY0ujOenU The Prodigy - Firestarter
+https://youtu.be/HuZTEsvgQko The Prodigy - Climbatize
+https://youtu.be/sf3QD3VoOnU The Prodigy - Fuel My Fire
+https://youtu.be/c18441Eh_WE Kylie Minogue - Can't Get You Out Of My Head
+https://youtu.be/63vqob-MljQ Kylie Minogue - Come Into My World
+https://youtu.be/vx2u5uUu3DE Bon Jovi - It's My Life
+https://youtu.be/d27gTrPPAyk Sting - Englishman In New York
+https://youtu.be/mqFLXayD6e8 Shania Twain - That Don't Impress Me Much
+https://youtu.be/llyiQ4I-mcQ Vengaboys - Boom, Boom, Boom!!
+https://youtu.be/HCm6gRHINqA Savage Garden - To The Moon & Back
+https://youtu.be/ymNFyxvIdaM Bomfunk MC's - Freestyler
+https://youtu.be/NI6aOFI7hms The Cardigans - Lovefool
+https://youtu.be/6W5pq4bIzIw Shaggy - Boombastic
+https://youtu.be/lN_MSyrq6-U The Glitch Mob / Daft Punk: Rerezzed
