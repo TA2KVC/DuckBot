@@ -1,24 +1,23 @@
-https://youtu.be/vYuhA1rQkaM
-https://youtu.be/uSiHqxgE2d0
-https://youtu.be/otCpCn0l4Wo
-https://youtu.be/djV11Xbc914
-https://youtu.be/OMOGaugKpzs
-https://youtu.be/n4RjJKxsamQ
-https://youtu.be/fJ9rUzIMcZQ
-https://youtu.be/Zi_XLOBDo_Y
-https://youtu.be/9jK-NcRmVcw
-https://youtu.be/Rbm6GXllBiw
-https://youtu.be/xwtdhWltSIg
-https://youtu.be/xwtdhWltSIg
-https://youtu.be/oRdxUFDoQe0
-https://youtu.be/v2AC41dglnM
-https://youtu.be/dsUXAEzaC3Q
-https://youtu.be/HzZ_urpj4As
-https://youtu.be/pAgnJDJN4VA
-https://youtu.be/YR5ApYxkU-U
-https://youtu.be/eM8Ss28zjcE
-https://youtu.be/Qt2mbGP6vFI
-https://youtu.be/t1TcDHrkQYg
+https://youtu.be/vYuhA1rQkaM Joe Cocker - Unchain My Heart
+https://youtu.be/uSiHqxgE2d0 Ray Charles - Hit The Road Jack
+https://youtu.be/otCpCn0l4Wo M.C. Hammer - U Can't Touch This
+https://youtu.be/djV11Xbc914 a-ha - Take On Me
+https://youtu.be/OMOGaugKpzs The Police - Every Breath You Take
+https://youtu.be/n4RjJKxsamQ Scorpions - Wind Of Change
+https://youtu.be/fJ9rUzIMcZQ Queen – Bohemian Rhapsody
+https://youtu.be/Zi_XLOBDo_Y Michael Jackson - Billie Jean
+https://youtu.be/9jK-NcRmVcw Europe - The Final Countdown
+https://youtu.be/Rbm6GXllBiw Guns N' Roses - Paradise City
+https://youtu.be/xwtdhWltSIg R.E.M. - Losing My Religion
+https://youtu.be/oRdxUFDoQe0 Michael Jackson - Beat It
+https://youtu.be/v2AC41dglnM AC/DC - Thunderstruck
+https://youtu.be/dsUXAEzaC3Q Michael Jackson - Bad
+https://youtu.be/HzZ_urpj4As Michael Jackson - The Way You Make Me Feel
+https://youtu.be/pAgnJDJN4VA AC/DC - Back In Black
+https://youtu.be/YR5ApYxkU-U Pink Floyd - Another Brick In The Wall
+https://youtu.be/eM8Ss28zjcE Queen - I Want To Break Free
+https://youtu.be/Qt2mbGP6vFI Phil Collins - Another Day In Paradise
+https://youtu.be/t1TcDHrkQYg Alphaville - Forever Young
 https://youtu.be/loWXMtjUZWM
 https://youtu.be/izGwDsrQ1eQ
 https://youtu.be/FTQbiNvZqaY
