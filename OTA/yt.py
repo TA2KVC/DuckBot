@@ -12,7 +12,7 @@ https://youtu.be/xwtdhWltSIg R.E.M. - Losing My Religion
 https://youtu.be/oRdxUFDoQe0 Michael Jackson - Beat It
 https://youtu.be/v2AC41dglnM AC/DC - Thunderstruck
 https://youtu.be/dsUXAEzaC3Q Michael Jackson - Bad
-https://youtu.be/HzZ_urpj4As Michael Jackson - The Way You Make Me Feel
+https://youtu.be/HzZ_urpj4As Michael Jackson - The Way You Make Me
 https://youtu.be/pAgnJDJN4VA AC/DC - Back In Black
 https://youtu.be/YR5ApYxkU-U Pink Floyd - Another Brick In The Wall
 https://youtu.be/eM8Ss28zjcE Queen - I Want To Break Free
@@ -59,7 +59,7 @@ https://youtu.be/iU5UKGTk-XI The Prodigy - Narayan
 https://youtu.be/_SUY0ujOenU The Prodigy - Firestarter
 https://youtu.be/HuZTEsvgQko The Prodigy - Climbatize
 https://youtu.be/sf3QD3VoOnU The Prodigy - Fuel My Fire
-https://youtu.be/c18441Eh_WE Kylie Minogue - Can't Get You Out Of My Head
+https://youtu.be/c18441Eh_WE Kylie Minogue - Can't Get You
 https://youtu.be/63vqob-MljQ Kylie Minogue - Come Into My World
 https://youtu.be/vx2u5uUu3DE Bon Jovi - It's My Life
 https://youtu.be/d27gTrPPAyk Sting - Englishman In New York
