@@ -70,3 +70,12 @@ https://youtu.be/ymNFyxvIdaM,Bomfunk%20MC's%20-%20Freestyler
 https://youtu.be/NI6aOFI7hms,The%20Cardigans%20-%20Lovefool
 https://youtu.be/6W5pq4bIzIw,Shaggy%20-%20Boombastic
 https://youtu.be/lN_MSyrq6-U,The%20Glitch%20Mob%20/%20DaftPunk:%20Rerezzed
+https://youtu.be/-jDEFIRkeg4,Nil%C3%BCfer%20-%20Taa%20Uzak%20Yollardan
+https://youtu.be/qqy-fVp97o4,Nil%C3%BCfer%20-%20Son%20Arzum
+https://youtu.be/NmMjaJ1n0MQ,Nil%C3%BCfer%20%26%20Gece%20-%20Ba%C5%9F%C4%B1ma%20Gelenler
+https://youtu.be/OF0jxTZhnQo,M%C3%BCzeyyen%20Senar%20%26%20Nil%C3%BCfer%20-%20Dalgaland%C4%B1m%20Da%20Duruldum
+https://youtu.be/-Z1FRdJV7Xk,Nil%C3%BCfer%20-%20Seni%20Beklerim%20%C3%96pt%C3%BC%C4%9F%C3%BCm%20Yerde
+https://youtu.be/RfV3isVcnLU,Nil%C3%BCfer%20-%20B%C3%B6yle%20Ayr%C4%B1l%C4%B1k%20Olmaz
+https://youtu.be/lgLL6DhTtf0,Nil%C3%BCfer%20-%20Kavak%20Yelleri
+https://youtu.be/br9-ISotCFQ,Nil%C3%BCfer%20%26%20Hayko%20Cepkin%20-%20A%C5%9Fk%20Kitab%C4%B1
+https://youtu.be/HvPelKuC7s8,Nil%C3%BCfer%20-%20Her%20Sevda%20Yeni%20Bir%20Veda
