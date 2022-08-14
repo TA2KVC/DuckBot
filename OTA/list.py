@@ -7,7 +7,6 @@ https://youtu.be/n4RjJKxsamQ,Scorpions%20-%20Wind%20of%20Change
 https://youtu.be/fJ9rUzIMcZQ,Queen%20–%20Bohemian%20Rhapsody
 https://youtu.be/Zi_XLOBDo_Y,Michael%20Jackson%20-%20Billie%20Jean
 https://youtu.be/9jK-NcRmVcw,Europe%20-%20The%20Final%20Countdown
-https://youtu.be/Rbm6GXllBiw,GunsN'Roses%20-%20Paradise%20City
 https://youtu.be/xwtdhWltSIg,R.E.M.%20-%20Losing%20My%20Religion
 https://youtu.be/oRdxUFDoQe0,Michael%20Jackson%20-%20Beat%20It
 https://youtu.be/v2AC41dglnM,AC/DC%20-%20Thunderstruck
@@ -23,7 +22,7 @@ https://youtu.be/izGwDsrQ1eQ,George%20Michael%20-%20Careless%20Whisper
 https://youtu.be/FTQbiNvZqaY,Toto%20-%20Africa
 https://youtu.be/KrZHPOeOxQQ,BonJovi%20-%20You%20Give%20Love%20ABad%20Name
 https://youtu.be/rY0WxgSXdEE,Queen%20-%20Another%20One%20Bites%20the%20Dust
-https://youtu.be/pIgZ7gMze7A,Wham!%20-%20Wake%20Me%20Up
+https://youtu.be/pIgZ7gMze7A,Wham%20-%20Wake%20Me%20Up
 https://youtu.be/qeMFqkcPYcg,Eurythmics%20-%20Sweet%20Dreams
 https://youtu.be/eH3giaIzONA,Whitney%20Houston%20-%20I%20Wanna%20Dance
 https://youtu.be/GOJk0HW_hJw,Whitesnake%20-%20Is%20This%20Love
@@ -37,8 +36,8 @@ https://youtu.be/Y0pdQU87dc8,Bryan%20Adams%20-%20Everything%20I%20Do
 https://youtu.be/6Ejga4kJUts,The%20Cranberries%20-%20Zombie
 https://youtu.be/tAGnKpE4NCI,Metallica:%20Nothing%20Else%20Matters
 https://youtu.be/1lyu1KKwC74,The%20Verve%20-%20Bitter%20Sweet%20Symphony
-https://youtu.be/QNJL6nfu__Q,Michael%20Jackson%20-%20They%20Don’t%20Care
-https://youtu.be/NKMtZm2YuBE,Puff%20Daddy%20-%20I'll%20be%20Missing%20You
+https://youtu.be/QNJL6nfu__Q,Michael%20Jackson%20-%20They%20Dont%20Care
+https://youtu.be/NKMtZm2YuBE,Puff%20Daddy%20-%20I%20ll%20be%20Missing%20You
 https://youtu.be/CD-E-LDc384,Metallica:%20Enter%20Sandman
 https://youtu.be/ZJL4UGSbeFg,Shania%20Twain%20-%20I%20Feel%20Like%20A%20Woman
 https://youtu.be/YP3W-E0OamU,Michael%20Jackson%20-%20Black%20or%20White
@@ -56,12 +55,12 @@ https://youtu.be/iU5UKGTk-XI,The%20Prodigy%20-%20Narayan
 https://youtu.be/_SUY0ujOenU,The%20Prodigy%20-%20Firestarter
 https://youtu.be/HuZTEsvgQko,The%20Prodigy%20-%20Climbatize
 https://youtu.be/sf3QD3VoOnU,The%20Prodigy%20-%20Fuel%20My%20Fire
-https://youtu.be/c18441Eh_WE,Kylie%20Minogue%20-%20Can't%20Get%20You
+https://youtu.be/c18441Eh_WE,Kylie%20Minogue%20-%20Cant%20Get%20You
 https://youtu.be/63vqob-MljQ,Kylie%20Minogue%20-%20Come%20Into%20My%20World
 https://youtu.be/vx2u5uUu3DE,BonJovi%20-%20Its%20My%20Life
 https://youtu.be/d27gTrPPAyk,Sting%20-%20Englishman%20In%20NewYork
 https://youtu.be/mqFLXayD6e8,Shania%20Twain%20-%20That%20Dont%20Impress%20Me%20Much
-https://youtu.be/llyiQ4I-mcQ,Vengaboys%20-%20Boom,Boom,Boom!!
+https://youtu.be/llyiQ4I-mcQ,Vengaboys%20-%20Boom,Boom,Boom
 https://youtu.be/HCm6gRHINqA,Savage%20Garden%20-%20To%20The%20Moon&Back
 https://youtu.be/ymNFyxvIdaM,Bomfunk%20MC%20-%20Freestyler
 https://youtu.be/NI6aOFI7hms,The%20Cardigans%20-%20Lovefool
