@@ -1,72 +1,72 @@
-https://youtu.be/vYuhA1rQkaM Joe%20Cocker-Unchain%20My%20Heart
-https://youtu.be/uSiHqxgE2d0 Ray%20Charles-Hit%20The%20Road%20Jack
-https://youtu.be/otCpCn0l4Wo M.C.Hammer-UCan't%20Touch%20This
-https://youtu.be/djV11Xbc914 a-ha-Take%20On%20Me
-https://youtu.be/OMOGaugKpzs ThePolice-Every%20Breath%20You%20Take
-https://youtu.be/n4RjJKxsamQ Scorpions-Wind%20of%20Change
-https://youtu.be/fJ9rUzIMcZQ Queen–Bohemian%20Rhapsody
-https://youtu.be/Zi_XLOBDo_Y Michael%20Jackson-Billie%20Jean
-https://youtu.be/9jK-NcRmVcw Europe-The%20Final%20Countdown
-https://youtu.be/Rbm6GXllBiw GunsN'Roses-Paradise%20City
-https://youtu.be/xwtdhWltSIg R.E.M.-Losing%20My%20Religion
-https://youtu.be/oRdxUFDoQe0 Michael%20Jackson-Beat%20It
-https://youtu.be/v2AC41dglnM AC/DC-Thunderstruck
-https://youtu.be/dsUXAEzaC3Q Michael%20Jackson-Bad
-https://youtu.be/HzZ_urpj4As Michael%20Jackson-The%20Way%20You%20Make%20Me
-https://youtu.be/pAgnJDJN4VA AC/DC-Back%20In%20Black
-https://youtu.be/YR5ApYxkU-U Pink%20Floyd-Another%20Brick%20In%20The%20Wall
-https://youtu.be/eM8Ss28zjcE Queen-I%20Want%20To%20Break%20Free
-https://youtu.be/Qt2mbGP6vFI Phil%20Collins-Another%20Day%20In%20Paradise
-https://youtu.be/t1TcDHrkQYg Alphaville-Forever%20Young
-https://youtu.be/loWXMtjUZWM Foreigner-I%20want%20to
-https://youtu.be/izGwDsrQ1eQ George%20Michael-Careless%20Whisper
-https://youtu.be/FTQbiNvZqaY Toto-Africa
-https://youtu.be/KrZHPOeOxQQ BonJovi-You%20Give%20Love%20ABad%20Name
-https://youtu.be/rY0WxgSXdEE Queen-Another%20One%20Bites%20theDust
-https://youtu.be/pIgZ7gMze7A Wham!-Wake%20Me%20Up
-https://youtu.be/qeMFqkcPYcg Eurythmics-Sweet%20Dreams
-https://youtu.be/eH3giaIzONA Whitney%20Houston-I%20Wanna%20Dance
-https://youtu.be/GOJk0HW_hJw Whitesnake-Is%20This%20Love
-https://youtu.be/WGU_4-5RaxU Blondie-Heart%20of%20Glass
-https://youtu.be/9f06QZCVUHg Bryan%20Adams-Summer%20of’69
-https://youtu.be/CdqoNKCCt7A Simple%20Minds-Don't%20You
-https://youtu.be/hCuMWrfXG4E Billy%20Joel-Uptown%20Girl
-https://youtu.be/J9gKyRmic20 Crowded%20House-Don't%20Dream
-https://youtu.be/fPO76Jlnz6c Coolio-Gangsta's%20Paradise
-https://youtu.be/hTWKbfoikeg Nirvana-Smells%20Like%20Teen%20Spirit
-https://youtu.be/Y0pdQU87dc8 Bryan%20Adams-Everything%20I%20Do
-https://youtu.be/6Ejga4kJUts TheCranberries-Zombie
-https://youtu.be/tAGnKpE4NCI Metallica:Nothing%20Else%20Matters
-https://youtu.be/1lyu1KKwC74 The%20Verve-Bitter%20Sweet%20Symphony
-https://youtu.be/QNJL6nfu__Q Michael%20Jackson-They%20Don’t%20Care
-https://youtu.be/NKMtZm2YuBE Puff%20Daddy-I'll%20be%20Missing%20You
-https://youtu.be/CD-E-LDc384 Metallica:Enter%20Sandman
-https://youtu.be/ZJL4UGSbeFg Shania%20Twain-I%20Feel%20Like%20A%20Woman
-https://youtu.be/mzJj5-lubeM Red%20Hot%20Chili%20Peppers-Scar%20Tissue
-https://youtu.be/YP3W-E0OamU Michael%20Jackson-Black%20or%20White
-https://youtu.be/gJLIiF15wjQ Spice%20Girls-Wannabe
-https://youtu.be/C3lWwBslWqg Sting-Desert%20Rose
-https://youtu.be/mOYZaiDZ7BM Rednex-Cotton%20Eye%20Joe
-https://youtu.be/d73tiBBzvFM Ace%20of%20Base-All%20That%20She%20Wants
-https://youtu.be/YlUKcNNmywk Red%20Hot%20Chili%20Peppers-Californication
-https://youtu.be/PCTI_e81DtM TheProdigy-Smack%20My%20BitchUp
-https://youtu.be/nllmm7Q4sj0 TheProdigy-Breathe
-https://youtu.be/uCM_4J6xdKg TheProdigy-Diesel%20Power
-https://youtu.be/psCf0oK9dvg TheProdigy-Funky%20Shit
-https://youtu.be/76ZRlYlyVu0 TheProdigy-Serial%20Thrilla
-https://youtu.be/rMbyJnLOhCM TheProdigy-Mindfiels
-https://youtu.be/iU5UKGTk-XI TheProdigy-Narayan
-https://youtu.be/_SUY0ujOenU TheProdigy-Firestarter
-https://youtu.be/HuZTEsvgQko TheProdigy-Climbatize
-https://youtu.be/sf3QD3VoOnU TheProdigy-Fuel%20My%20Fire
-https://youtu.be/c18441Eh_WE Kylie%20Minogue-Can't%20Get%20You
-https://youtu.be/63vqob-MljQ Kylie%20Minogue-Come%20Into%20My%20World
-https://youtu.be/vx2u5uUu3DE BonJovi-It's%20My%20Life
-https://youtu.be/d27gTrPPAyk Sting-Englishman%20In%20NewYork
-https://youtu.be/mqFLXayD6e8 Shania%20Twain-That%20Don't%20Impress%20Me%20Much
-https://youtu.be/llyiQ4I-mcQ Vengaboys-Boom,Boom,Boom!!
-https://youtu.be/HCm6gRHINqA Savage%20Garden-To%20The%20Moon&Back
-https://youtu.be/ymNFyxvIdaM BomfunkMC's-Freestyler
-https://youtu.be/NI6aOFI7hms TheCardigans-Lovefool
-https://youtu.be/6W5pq4bIzIw Shaggy-Boombastic
-https://youtu.be/lN_MSyrq6-U TheGlitch%20Mob/DaftPunk:Rerezzed
+https://youtu.be/vYuhA1rQkaM,Joe%20Cocker%20-%20Unchain%20My%20Heart
+https://youtu.be/uSiHqxgE2d0,Ray%20Charles%20-%20Hit%20The%20Road%20Jack
+https://youtu.be/otCpCn0l4Wo,M.C.%20Hammer%20-%20U%20Can't%20Touch%20This
+https://youtu.be/djV11Xbc914,a%20-%20ha%20-%20Take%20On%20Me
+https://youtu.be/OMOGaugKpzs,The%20Police%20-%20Every%20Breath%20You%20Take
+https://youtu.be/n4RjJKxsamQ,Scorpions%20-%20Wind%20of%20Change
+https://youtu.be/fJ9rUzIMcZQ,Queen%20–%20Bohemian%20Rhapsody
+https://youtu.be/Zi_XLOBDo_Y,Michael%20Jackson%20-%20Billie%20Jean
+https://youtu.be/9jK-NcRmVcw,Europe%20-%20The%20Final%20Countdown
+https://youtu.be/Rbm6GXllBiw,GunsN'Roses%20-%20Paradise%20City
+https://youtu.be/xwtdhWltSIg,R.E.M.%20-%20Losing%20My%20Religion
+https://youtu.be/oRdxUFDoQe0,Michael%20Jackson%20-%20Beat%20It
+https://youtu.be/v2AC41dglnM,AC/DC%20-%20Thunderstruck
+https://youtu.be/dsUXAEzaC3Q,Michael%20Jackson%20-%20Bad
+https://youtu.be/HzZ_urpj4As,Michael%20Jackson%20-%20The%20Way%20You%20Make%20Me
+https://youtu.be/pAgnJDJN4VA,AC/DC%20-%20Back%20In%20Black
+https://youtu.be/YR5ApYxkU-U,Pink%20Floyd%20-%20Another%20Brick%20In%20The%20Wall
+https://youtu.be/eM8Ss28zjcE,Queen%20-%20I%20Want%20To%20Break%20Free
+https://youtu.be/Qt2mbGP6vFI,Phil%20Collins%20-%20Another%20Day%20In%20Paradise
+https://youtu.be/t1TcDHrkQYg,Alphaville%20-%20Forever%20Young
+https://youtu.be/loWXMtjUZWM,Foreigner%20-%20I%20want%20to
+https://youtu.be/izGwDsrQ1eQ,George%20Michael%20-%20Careless%20Whisper
+https://youtu.be/FTQbiNvZqaY,Toto%20-%20Africa
+https://youtu.be/KrZHPOeOxQQ,BonJovi%20-%20You%20Give%20Love%20ABad%20Name
+https://youtu.be/rY0WxgSXdEE,Queen%20-%20Another%20One%20Bites%20the%20Dust
+https://youtu.be/pIgZ7gMze7A,Wham!%20-%20Wake%20Me%20Up
+https://youtu.be/qeMFqkcPYcg,Eurythmics%20-%20Sweet%20Dreams
+https://youtu.be/eH3giaIzONA,Whitney%20Houston%20-%20I%20Wanna%20Dance
+https://youtu.be/GOJk0HW_hJw,Whitesnake%20-%20Is%20This%20Love
+https://youtu.be/WGU_4-5RaxU,Blondie%20-%20Heart%20of%20Glass
+https://youtu.be/9f06QZCVUHg,Bryan%20Adams%20-%20Summer%20of’69
+https://youtu.be/CdqoNKCCt7A,Simple%20Minds%20-%20Don't%20You
+https://youtu.be/hCuMWrfXG4E,Billy%20Joel%20-%20Uptown%20Girl
+https://youtu.be/J9gKyRmic20,Crowded%20House%20-%20Don't%20Dream
+https://youtu.be/fPO76Jlnz6c,Coolio%20-%20Gangsta's%20Paradise
+https://youtu.be/hTWKbfoikeg,Nirvana%20-%20Smells%20Like%20Teen%20Spirit
+https://youtu.be/Y0pdQU87dc8,Bryan%20Adams%20-%20Everything%20I%20Do
+https://youtu.be/6Ejga4kJUts,The%20Cranberries%20-%20Zombie
+https://youtu.be/tAGnKpE4NCI,Metallica:%20Nothing%20Else%20Matters
+https://youtu.be/1lyu1KKwC74,The%20Verve%20-%20Bitter%20Sweet%20Symphony
+https://youtu.be/QNJL6nfu__Q,Michael%20Jackson%20-%20They%20Don’t%20Care
+https://youtu.be/NKMtZm2YuBE,Puff%20Daddy%20-%20I'll%20be%20Missing%20You
+https://youtu.be/CD-E-LDc384,Metallica:%20Enter%20Sandman
+https://youtu.be/ZJL4UGSbeFg,Shania%20Twain%20-%20I%20Feel%20Like%20A%20Woman
+https://youtu.be/mzJj5-lubeM,Red%20Hot%20Chili%20Peppers%20-%20Scar%20Tissue
+https://youtu.be/YP3W-E0OamU,Michael%20Jackson%20-%20Black%20or%20White
+https://youtu.be/gJLIiF15wjQ,Spice%20Girls%20-%20Wannabe
+https://youtu.be/C3lWwBslWqg,Sting%20-%20Desert%20Rose
+https://youtu.be/mOYZaiDZ7BM,Rednex%20-%20Cotton%20Eye%20Joe
+https://youtu.be/d73tiBBzvFM,Ace%20of%20Base%20-%20All%20That%20She%20Wants
+https://youtu.be/YlUKcNNmywk,Red%20Hot%20Chili%20Peppers%20-%20Californication
+https://youtu.be/PCTI_e81DtM,The%20Prodigy%20-%20Smack%20My%20BitchUp
+https://youtu.be/nllmm7Q4sj0,The%20Prodigy%20-%20Breathe
+https://youtu.be/uCM_4J6xdKg,The%20Prodigy%20-%20Diesel%20Power
+https://youtu.be/psCf0oK9dvg,The%20Prodigy%20-%20Funky%20Shit
+https://youtu.be/76ZRlYlyVu0,The%20Prodigy%20-%20Serial%20Thrilla
+https://youtu.be/rMbyJnLOhCM,The%20Prodigy%20-%20Mindfiels
+https://youtu.be/iU5UKGTk-XI,The%20Prodigy%20-%20Narayan
+https://youtu.be/_SUY0ujOenU,The%20Prodigy%20-%20Firestarter
+https://youtu.be/HuZTEsvgQko,The%20Prodigy%20-%20Climbatize
+https://youtu.be/sf3QD3VoOnU,The%20Prodigy%20-%20Fuel%20My%20Fire
+https://youtu.be/c18441Eh_WE,Kylie%20Minogue%20-%20Can't%20Get%20You
+https://youtu.be/63vqob-MljQ,Kylie%20Minogue%20-%20Come%20Into%20My%20World
+https://youtu.be/vx2u5uUu3DE,BonJovi%20-%20It's%20My%20Life
+https://youtu.be/d27gTrPPAyk,Sting%20-%20Englishman%20In%20NewYork
+https://youtu.be/mqFLXayD6e8,Shania%20Twain%20-%20That%20Don't%20Impress%20Me%20Much
+https://youtu.be/llyiQ4I-mcQ,Vengaboys%20-%20Boom,Boom,Boom!!
+https://youtu.be/HCm6gRHINqA,Savage%20Garden%20-%20To%20The%20Moon&Back
+https://youtu.be/ymNFyxvIdaM,Bomfunk%20MC's%20-%20Freestyler
+https://youtu.be/NI6aOFI7hms,The%20Cardigans%20-%20Lovefool
+https://youtu.be/6W5pq4bIzIw,Shaggy%20-%20Boombastic
+https://youtu.be/lN_MSyrq6-U,The%20Glitch%20Mob%20/%20DaftPunk:%20Rerezzed
