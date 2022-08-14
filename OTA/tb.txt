@@ -1,4 +1,4 @@
-https://youtu.be/vYuhA1rQkaM, Joe Cocker Unchain My Heart
-https://youtu.be/uSiHqxgE2d0, Ray Charles - Hit The Road Jack
-https://youtu.be/otCpCn0l4Wo, M.C Hammer - Cant Touch This
-https://youtu.be/djV11Xbc914, a-ha Take On Me
+https://youtu.be/vYuhA1rQkaM,Joe.ljust(1)Cocker.ljust(1)Unchain.ljust(1)My.ljust(1)Heart
+https://youtu.be/uSiHqxgE2d0,Ray.ljust(1)Charles.ljust(1)-Hit.ljust(1)Jack
+https://youtu.be/otCpCn0l4Wo,M.C.ljust(1)Hammer.ljust(1)Can.ljust(1)This
+https://youtu.be/djV11Xbc914,a-h.ljust(1)Take.ljust(1)Me
