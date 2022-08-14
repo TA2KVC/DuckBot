@@ -1,4 +1,4 @@
-https://youtu.be/vYuhA1rQkaM,Joe Cocker Unchain My Heart
-https://youtu.be/uSiHqxgE2d0,Ray Charles - Hit jack
-https://youtu.be/otCpCn0l4Wo,M.C. Hammer Can This
-https://youtu.be/djV11Xbc914,a-h. Take Me
+https://youtu.be/vYuhA1rQkaM,"Joe"%s"Cocker"%s"Unchai"%s"My"%s"Heart
+https://youtu.be/uSiHqxgE2d0,Ray"%s"Charles"%s"Hi"%s"jack
+https://youtu.be/otCpCn0l4Wo,M.C."%s"Hammer"%s"Can"%s"This
+https://youtu.be/djV11Xbc914,"a-h."%s"Take"%s"Me"
