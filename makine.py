@@ -1,10 +1,7 @@
 import machine
 import time
-import random
 import twitter
-from ducks import data
 
-twit = twitter.twiit()
 timer = machine.Timer()
 led = machine.Pin('LED', machine.Pin.OUT)
 resetlog = time.time()
@@ -22,12 +19,13 @@ def blink():
         time.sleep(0.04)
             
 def reset(timer):
-    duck=random.choice(data)
+    duck=twitter.otaduck()
+    yt,tt=twitter.otatube()
     blink()
-    twit.tweet(duck)
-    print("Auto tweet sent!")
+    twitter.tweet(duck,yt,tt)
     time.sleep(1)
     machine.reset()
     
 def vreset():
     timer.init(period=3480000, callback=reset)
+    
