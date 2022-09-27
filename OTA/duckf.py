@@ -390,5 +390,3 @@ https://i.ibb.co/Gdy0MgM/vlad-tchompalov-N1f-Z0-JFL6g-M-unsplash.jpg
 https://i.ibb.co/Y2GGbR7/chris-andrawes-1d-JRIYh0oy-E-unsplash.jpg
 https://i.ibb.co/80S8CDj/stefanie-poepken-Ke-KOac-SBfv-M-unsplash.jpg
 https://i.ibb.co/Ny69h0Y/olivia-colacicco-KPBy-Zylupns-unsplash.jpg
-https://i.ibb.co/4MzqPxs/IMG-20220902-221554.jpg
-https://i.ibb.co/YZnt9bj/IMG-20220902-224113.jpg
