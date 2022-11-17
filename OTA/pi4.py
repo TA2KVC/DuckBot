@@ -7,3 +7,4 @@ https://i.ibb.co/zFcVCm5/4297-02.jpg
 https://i.ibb.co/PCgjjCm/pi-plug-in.gif
 https://i.ibb.co/PNHbcRJ/Raspberry-Pi-4-Model-B.jpg
 https://i.ibb.co/HqJhkxH/raspberry-pi-gpio-tutorial-1.gif
+https://i.ibb.co/D7d7ntx/IMG-20221117-222809.jpg
