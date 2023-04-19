@@ -59,8 +59,6 @@ https://i.ibb.co/7Ckc0XY/Mustafa-Kemal-Ataturk-Fotograflari-c.jpg
 https://i.ibb.co/SVQyZsD/Mustafa-Kemal-Ataturk-Fotograflari-99.jpg
 https://i.ibb.co/StK1cqH/Ataturk-Renkli.png
 https://i.ibb.co/mrsx9kc/peakpx.jpg
-https://i.ibb.co/6bmLzdM/peakpx-1.jpg
-https://i.ibb.co/f4zTzM8/wp1854794-ataturk-wallpapers.jpg
 https://i.ibb.co/nzLcvvb/wp1854839-ataturk-wallpapers.jpg
 https://i.ibb.co/SPGZjfc/pxfuel-11.jpg
 https://i.ibb.co/0MMpS9p/pxfuel-10.jpg
