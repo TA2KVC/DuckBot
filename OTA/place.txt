@@ -33,3 +33,12 @@ https://i.ibb.co/fXgLJz2/kiruna.jpg,Kiruna – İsveç
 https://i.ibb.co/DCz101r/lofoten.jpg,Lofoten Adaları – Norveç
 https://i.ibb.co/PsLsFW3/melissani.jpg,Melissani Mağarası - Yunanistan
 https://i.ibb.co/QD6Htw5/thorcukuru.jpg,Thor Çukuru - Oregon
+https://i.ibb.co/gTxn3Rt/bagan.jpg,Bagan – Myanmar
+https://i.ibb.co/ys8r6bv/cikolata.jpg,Çikolota Tepeleri – Filipinler
+https://i.ibb.co/58rMd7q/emerald.jpg,Emerald Moraine Gölü – Kanada
+https://i.ibb.co/k8N5fnT/Kapadokya-gezi-rehberi-692x461.jpg,Kapadokya
+https://i.ibb.co/ZfwBmcS/mavicukur.jpg,Büyük Mavi Çukur – Belize
+https://i.ibb.co/Vx58mgW/morksio.jpg,Morskie Oko Gölü – Polonya
+https://i.ibb.co/x6nn93F/palau-adalari-1-692x430.jpg,Palau Adaları
+https://i.ibb.co/zfXdG6n/rio-brezilya-692x519.jpg,Rio De Janerio – Brezilya
+https://i.ibb.co/nkWmhdv/Venedik-talya-692x433.jpg,Venedik – İtalya
