@@ -42,3 +42,17 @@ https://i.ibb.co/Vx58mgW/morksio.jpg,Morskie Oko Gölü – Polonya
 https://i.ibb.co/x6nn93F/palau-adalari-1-692x430.jpg,Palau Adaları
 https://i.ibb.co/zfXdG6n/rio-brezilya-692x519.jpg,Rio De Janerio – Brezilya
 https://i.ibb.co/nkWmhdv/Venedik-talya-692x433.jpg,Venedik – İtalya
+https://i.ibb.co/f1tWBCr/Boston-1.jpg,Boston - ABD
+https://i.ibb.co/5kBsjZx/Frankfurt-skyline.jpg, Frankfurt - Almanya
+https://i.ibb.co/hmRkVDr/Houston-Skyline.jpg,Houston - ABD
+https://i.ibb.co/ws91Nwm/london.jpg,Londra - İngiltere
+https://i.ibb.co/nzcF26d/New-York-skyline-1.jpg, New York - ABD
+https://i.ibb.co/m53m0Tw/Panama-City.jpg,Panama
+https://i.ibb.co/wgCDH65/Paris-skyline.jpg,Paris - Fransa
+https://i.ibb.co/qMhBNJL/Rio-de-Janeiro-Skyline.jpg,Rio De Janerio – Brezilya
+https://i.ibb.co/dDjnKrR/San-Francisco-Skyline.jpg,San Francisco - ABD
+https://i.ibb.co/PzxvN2b/Seattle-Skyline.jpg,Seattle - ABD
+https://i.ibb.co/vDkvjnH/Shanghai-Skyline.jpg, Şanghay - Çin
+https://i.ibb.co/wNMgBZB/Taipei-Skyline.jpg,Taipei - Tayvan
+https://i.ibb.co/w7j3Yhj/Tokyo-skyline-1.jpg,Tokyo - Japonya
+https://i.ibb.co/k10fFyG/Top-10-most-beautiful-skylines-in-the-world.jpg,Hong Kong - Çin
