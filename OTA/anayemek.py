@@ -223,3 +223,26 @@ Kaşarlı Tas Kebabı
 Yelpaze Patlıcan Kebabı
 Etli Fajita
 Antep Tava
+Kaşarlı Köfte
+Palamut Tava
+Hamsi Tava
+Tavuk Yahnisi
+Kuzu İncik Haşlama
+Sini Kebabı
+Rosto Köfte
+Tekirdağ Köftesi
+Hasanpaşa Köfte
+Kağıtta Palamut Kebabı
+Misket Köfteli Orman Kebabı
+Fırında Hamsi
+Fırında Levrek
+Fırında Somon
+Fırında Çipura
+Palamut Buğulama
+Fırında Uskumru
+Fırında Alabalık
+Kalamar
+Karides Tava
+Güveçte Hamsili Pilav
+Hamsili Pilav
+Fırında Mantarlı Karides
