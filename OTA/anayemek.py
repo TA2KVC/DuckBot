@@ -8,7 +8,16 @@ Fırında Patlıcan Graten
 Pırasa
 Kabak Mücver
 Kuru Fasulye
+Kuru Fasulye Pilav
+Kuru Fasulye Bulgur Pilavı
 Nohut Yemeği
+Nohut Yemeği Bulgur Pilavı
+Nohut Yemeği Pilav
+Sebzeli Bulgur Pilavı
+Sebzeli Pilav
+Kavurmalı Pilav
+Nohutlu Pilav
+Tavuklu Nohutlu Pilav
 Patlıcan Oturtma
 Patlıcan Musakka
 Nohutlu Patlıcan Yemeği
