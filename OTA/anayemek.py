@@ -139,3 +139,25 @@ Mantar Sote
 Tavuk Sote
 Püreli Vegan Tepsi Kebabı
 Türlü
+İzmir Köfte
+Akçaabat Köfte
+Ankara Tava
+Tavuklu Sultan Kebabı
+Patates Püresinde Tavuk Sote
+Kadınbudu Köfte
+Beyti Kebabı
+Köfteli İslim Kebabı
+Püreli Tepsi Kebabı
+Tepsi Kebabı
+Kağıt Kebabı
+Patlıcan Kebabı
+Patates Köftesi
+Kıbrıs Köftesi
+Çökertme Kebabı
+Kıymalı Rulo Patates
+Şehzade Kebabı
+Ali Nazik Kebabı
+Hünkar Beğendi
+Tavuklu Buğu Kebabı
+Fırında Köfte Patates
+Fırında Tavuk Şiş
