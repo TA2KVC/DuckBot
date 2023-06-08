@@ -23,4 +23,12 @@ Kırmızı Şarap
 Rose Şarap
 Acılı Şalgam
 Şalgam
-
+Kavun
+Karpuz
+Karpuz Suyu
+Hoşaf
+Üzüm Hoşafı
+Erik Hoşafı
+Komposto
+Kayısı Hoşafı
+Şeftali Hoşafı
