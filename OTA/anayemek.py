@@ -210,3 +210,16 @@ Etli Lahana Sarması
 Patatesli Tavuk Baget
 Şişte Milföylü Köfte
 Saksı Kebabı
+Fırında Tavuk Kanadı
+Dana Antrikot
+Püreli Köfte
+Tas kebabı
+Patates Karnıyarık
+Elbasan Tava
+Bostan Kebabı
+Tantuni
+Kuzu Tandır
+Kaşarlı Tas Kebabı
+Yelpaze Patlıcan Kebabı
+Etli Fajita
+Antep Tava
