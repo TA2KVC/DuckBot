@@ -175,3 +175,20 @@ Köfteli Patlıcan Sarması
 Sebzeli Kuşbaşı Etli Güveç
 Tavuk Fajita
 Ekşili Köfte
+Kağıt Kebabı
+Soslu Biftek
+Biftek
+Tavuklu Krep Bohçası
+Fırında Çıtır Tavuk Çubukları
+Halka Kebabı
+Arnavut Ciğeri
+Fırında Kıymalı Patates Dizmesi
+Beşamel Soslu Tavuk
+Kiremitte Soslu Köfte
+Püreli Tepsi Kebabı
+Tepsi Kebab
+Patlıcan Lazanya
+Kuru Köfte
+Fırında Galeta Unlu Çıtır Tavuk
+Kıymalı Tirit
+Tirit
