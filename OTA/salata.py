@@ -48,3 +48,15 @@ Kerevizli Havuç Salatası
 Barbunya Nohutlu Yeşil Salata
 Roka Arugula Karışık Yeşillik Salatası
 Patlıcan Kırmızı Biber Salatası
+Gavurdağı Salatası
+Amasra Salatası
+Bostana Salatası
+Manca Salatası
+Taze Börülce Salatası
+Tablacı Salatası
+Sumaklı Soğan Salatası
+Kaşık Salatası
+Közlenmiş Biber Salatası
+Zerzevat Salatası
+Zahter Salatası
+Yoğurtlu Kuru Patlıcan Salatası
