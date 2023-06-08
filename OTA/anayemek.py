@@ -115,3 +115,27 @@ Tavuklu Karnabahar
 Tavuklu Pilav
 Fırında Sebzeli Tavuk
 Fırında Yeşil Kabak Mücveri
+Parmesanlı Yeşil Kuşkonmaz
+Sebzeli Sulu Köfte
+Sebzeli Köfte
+İslim Kebabı
+Patates Musakka
+Sultan Yemeği
+Alinazik
+Madımak
+Kumpir
+Güveç
+Sebzeli Güveç
+Tavuklu Güveç
+Makarna
+Kıymalı Makarna
+Salçalı Makarna
+Salçalı Ekmek
+Fırında Patates Oturtma
+Kaburgalı Nohut Yemeği
+Pastırmalı Kuru Fasulye
+Kestane Mantar Sote
+Mantar Sote
+Tavuk Sote
+Püreli Vegan Tepsi Kebabı
+Türlü
