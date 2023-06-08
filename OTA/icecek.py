@@ -17,6 +17,7 @@ Gül Şerbeti
 Bitki Çayı
 Smoothie
 Bira
+Rakı
 Şarap
 Beyaz Şarap
 Kırmızı Şarap
