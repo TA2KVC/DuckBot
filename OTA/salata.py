@@ -60,3 +60,7 @@ Közlenmiş Biber Salatası
 Zerzevat Salatası
 Zahter Salatası
 Yoğurtlu Kuru Patlıcan Salatası
+Turşu
+Turşu Kavurması
+Havuç Tarator
+Tarator
