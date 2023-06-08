@@ -5,7 +5,7 @@ Beşamel Soslu Patlıcan Musakka
 Karnabahar Graten
 Patatesli Havuçlu Bezelye
 Fırında Patlıcan Graten
-Pırasa
+Kıymalı Pırasa
 Kabak Mücver
 Kuru Fasulye
 Kuru Fasulye Pilav
