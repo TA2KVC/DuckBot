@@ -161,3 +161,17 @@ Hünkar Beğendi
 Tavuklu Buğu Kebabı
 Fırında Köfte Patates
 Fırında Tavuk Şiş
+Beşamel Soslu Garnitürlü Köfte
+Fırında Tavuk But
+Yoğurtlu Tavuk Salatası
+Fırında Soslu Köfte
+Fırında Patates Püreli Patlıcan Kebabı
+Çıtır Tavuk Kızartması
+Patates Lazanya
+Lazanya
+Sebzeli Köfte Sarma
+Patlıcan Kapama
+Köfteli Patlıcan Sarması
+Sebzeli Kuşbaşı Etli Güveç
+Tavuk Fajita
+Ekşili Köfte
