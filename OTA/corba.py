@@ -53,3 +53,4 @@ Yayla Çorbası
 Sütlü Domates Çorbası
 Brokoli Çorbası
 Hanımağa Çorbası
+Tel Şehriye Çorbası
