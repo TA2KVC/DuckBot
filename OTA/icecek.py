@@ -1,4 +1,3 @@
-Su
 Limonata
 Ayran
 Gazlı İçecek
@@ -33,3 +32,6 @@ Erik Hoşafı
 Komposto
 Kayısı Hoşafı
 Şeftali Hoşafı
+Kola
+Sarı Kola
+Cacık
