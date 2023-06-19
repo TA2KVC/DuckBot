@@ -16,7 +16,6 @@ Balık Çorbası
 Brokoli Çorbası
 Fasulye Çorbası
 Kereviz Çorbası
-Mısır Çorbası
 Kırmızı Mercimek Çorbası
 Bezelye Çorbası
 Nohut Çorbası
