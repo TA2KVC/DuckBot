@@ -2,7 +2,7 @@ import twitter
 import requests
 import os
 import telebot
-#import urllib.parse
+import urllib.parse
 import time
 import threading
 import schedule
