@@ -88,7 +88,6 @@ https://i.ibb.co/vxYrgTv/pexels-francesco-altamura-7745377.jpg
 https://i.ibb.co/kQwvPBw/pexels-ricardo-ortiz-7369951.jpg
 https://i.ibb.co/9N1gZj5/pexels-ricardo-ortiz-7369954.jpg
 https://i.ibb.co/vz4F5dN/pexels-takis-dim-12188823.jpg
-https://i.ibb.co/cbdwMC7/IMG-20220725-021219.jpg
 https://i.ibb.co/BPCHknh/IMG-20220725-004815.jpg
 https://i.ibb.co/bHNtHXT/GS20220725015330.gif
 https://i.ibb.co/9NmSfPG/294567892-4843095535796482-3046119750444294058-n.jpg
